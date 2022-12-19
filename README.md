@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 <h1> just to see if this works </h1>
+  <h2> OK, it can understand html </h2>
 
 <!---
 RageFu2004/RageFu2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
